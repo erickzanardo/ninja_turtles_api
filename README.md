@@ -6,6 +6,16 @@
 
 An example application built with dart_frog
 
+Serves ninja turtle endpoints:
+
+`GET /turtles/[id]`
+
+Returns the data for the Turtle with the given id.
+
+`POST /turtles/random`
+
+Will return a random turtle.
+
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
